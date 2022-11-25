@@ -1,0 +1,93 @@
+.topbg{
+    background-image: url(./Images/web_developer.jpg.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.pic2{
+    position: relative;
+    right: 10px;
+}
+.pic3{
+    position: relative;
+    right: 20px;
+}
+.pic4{
+    position: relative;
+    right: 30px;
+}
+.back-trainers{
+    background-color: rgb(203, 238, 238);
+}
+.bgimg1{
+    background-image: url(./Images/happy-asian-man-standing-with-arms-crossed-grey-wall.jpg);
+    height: 350px;
+    width: 550px;
+    background-position: center;
+    background-size: cover;
+}
+.picdown1{
+    position: relative;
+    top: 270px;
+}
+.bgimg2{
+    background-image: url(./Images/portrait-good-looking-brunette-young-asian-woman.jpg);
+    height: 200px;
+    width: 280px;
+    background-position: center;
+    background-size: cover;
+}
+.picdown2{
+    position: relative;
+    top: 110px;
+}
+.bgimg3{
+    background-image: url(./Images/senior-man-white-sweater-eyeglasses.jpg);
+    height: 200px;
+    width: 280px;
+    background-position: center;
+    background-size: cover;
+}
+.picdown3{
+    position: relative;
+    top: 110px;
+}
+.bgimg4{
+    background-image: url(./Images/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg);
+    height: 200px;
+    width: 280px;
+    background-position: center;
+    background-size: cover;
+}
+.picdown4{
+    position: relative;
+    top: 110px;
+}
+.bgimg5{
+    background-image: url(./Images/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university.jpg);
+    height: 200px;
+    width: 280px;
+    background-position: center;
+    background-size: cover;
+}
+.picdown5{
+    position: relative;
+    top: 110px;
+}
+.speechbg{
+    background-image: url(./Images/download.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+.mapbg{
+    background-color: rgb(203, 238, 238);
+}
+.key{
+    background-image: url(./Images/keyboard_not_working_1.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
